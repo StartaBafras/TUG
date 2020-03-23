@@ -1,6 +1,6 @@
 import time
 import urllib.request
-url1="http://msrv3.tug.tubitak.gov.tr/tug_allsky_full.jpg"
+url1="http://yerleske.tug.tubitak.gov.tr/tug_all_sky_full.jpg"
 say = 0
 while True:
 	say += 1
